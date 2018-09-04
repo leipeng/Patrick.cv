@@ -89,7 +89,7 @@ hr {
 
 .info-unit {
     color: #666;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .remodal-img h3 {
@@ -279,7 +279,9 @@ ul li {
 }
 
 .experience-title {
-    font-size: 20px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #333;
 }
 
 .project-item h3 {
@@ -296,7 +298,12 @@ ul li {
 }
 
 .project-item p {
-    margin-top: 10px;
+    margin-top: 5px;
+}
+
+.project-item .sub-title {
+    color: #607d8b;
+    font-weight: bold;
 }
 
 .intro-item {
@@ -309,6 +316,8 @@ ul li {
 
 .project-item .role {
     margin-top: 5px;
+    color: #607d8b;
+    font-weight: bold;
 }
 
 .stack-list .item-remove {
